@@ -67,7 +67,7 @@ Abre el proyecto en VS Code y analiza el listado de archivos que aparecen, el qu
 Ese archivo es donde se encuentra el código de ejemplo para la extensión. Reemplazaremos el codigo que muestra Hello World para agregar la funcionalidad de insertar lineas en blanco en textos.
 
 
-```ts
+```js
 
 'use strict'; 
 // Modo estricto de JavaScript para escribir código más seguro y evitar errores comunes.
